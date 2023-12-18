@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "regex-to-strings": "^2.1.0",
     "snow-fake": "^1.1.0",
     "zod": "^3.22.4"
   }
